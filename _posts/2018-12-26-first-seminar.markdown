@@ -14,7 +14,7 @@ image: /images/20181226.jpg
 발표자료:
 
 A gentle introduction to graph neural network
-[get the PDF]({{ "/present_file/A gentle introduction to graph neural networks.pdf" | absolute_url }}) directly.
+-[get the PDF]({{ "/present_file/A gentle introduction to graph neural networks.pdf" | absolute_url }})
 
 Bayesian neural network and uncertainty in deep learning
 
