@@ -3,7 +3,7 @@ title: AI Friends
 email: ai.friends.seminar@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   출연연/산업체/대학 중심의 산업 AI 연구 교류 모임입니다.
-baseurl: "https://www.facebook.com/groups/696852470671242/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://open.kakao.com/o/ggewxi2" # the base hostname & protocol for your site
 twitter_username: ai.friends.seminar
 github_username:  ai-friends
