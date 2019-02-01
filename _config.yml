@@ -13,7 +13,7 @@ markdown: kramdown
 
 paginate: 4
 
-author: ai-friends
+author: Your name
 
 gems: [jekyll-paginate]
 
