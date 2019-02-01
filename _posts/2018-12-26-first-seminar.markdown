@@ -11,6 +11,8 @@ image: /images/20181226.jpg
 
 장소: ETRI 융합기술연구생산센터 중회의실 (224호)
 
+
+
 발표자료:
 
 A gentle introduction to graph neural network
@@ -24,6 +26,11 @@ Inductive biases, graph neural networks, attention and relational inference
 
 Survey on adversarial training
 -[get the PDF file]({{ "/present_file/Survey on adversarial training.pdf" | absolute_url }})
+
+
+
+
+
 
 문의: ai.friends.seminar@gmail.com,
 [Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
