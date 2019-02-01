@@ -22,8 +22,8 @@ Inductive biases, graph neural networks, attention and relational inference
 Survey on adversarial training
 
 
-문의: ai.friends.seminar@gmail.com
-[Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai]
+문의: ai.friends.seminar@gmail.com,
+[Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
 [페이스북 홈페이지][facebook_ai]
 
 [kakao_ai]:     https://open.kakao.com/o/ggewxi2
