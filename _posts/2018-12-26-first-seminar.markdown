@@ -17,11 +17,13 @@ A gentle introduction to graph neural network
 -[get the PDF]({{ "/present_file/A gentle introduction to graph neural networks.pdf" | absolute_url }})
 
 Bayesian neural network and uncertainty in deep learning
+-[get the PDF]({{ "/present_file/Bayesian neural network and uncertainty in deep learning.pdf" | absolute_url }})
 
 Inductive biases, graph neural networks, attention and relational inference
+-[get the PDF]({{ "/present_file/Inductive biases, graph neural networks, attention and relational inference.pdf" | absolute_url }})
 
 Survey on adversarial training
-
+-[get the PDF]({{ "/present_file/Survey on adversarial training.pdf" | absolute_url }})
 
 문의: ai.friends.seminar@gmail.com,
 [Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
