@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to AI Friends!"
 date:   2019-01-31 16:52:07
 categories: ai-friends update
-tags: ai-frieds update
+tags: ai-friends update
 image: /images/포스터.jpg
 ---
 AI 프렌즈 학술 세미나 안내 
