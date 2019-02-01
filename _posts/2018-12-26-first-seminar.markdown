@@ -4,7 +4,7 @@ title:  "AI 프렌즈 1회 학술 세미나"
 date:   2018-12-26 19:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/pic03.jpg
+image: /images/20181226.jpg
 ---
 
 프로그램:Graph Neural Network & Bauesian Neural Network (KAIST 박사과정 류성옥)
@@ -13,7 +13,7 @@ image: /images/pic03.jpg
 
 발표자료:
 
-A gentle introduction to graph neural networks
+A gentle introduction to graph neural network
 [get the PDF]({{ "/present_file/A gentle introduction to graph neural networks.pdf" | absolute_url }}) directly.
 
 Bayesian neural network and uncertainty in deep learning
