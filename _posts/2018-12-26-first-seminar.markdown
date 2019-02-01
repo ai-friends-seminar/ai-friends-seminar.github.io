@@ -7,7 +7,7 @@ tags: ai-friends update
 image: /images/20181226.jpg
 ---
 
-프로그램:Graph Neural Network & Bauesian Neural Network (KAIST 박사과정 류성옥)
+발표 주제: Graph Neural Network & Bauesian Neural Network (KAIST 박사과정 류성옥)
 
 장소: ETRI 융합기술연구생산센터 중회의실 (224호)
 
