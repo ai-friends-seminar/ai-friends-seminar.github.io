@@ -9,7 +9,7 @@ image: /images/20190130.jpg
 
 
 ## 발표 주제 및 발표자  
-### 1. 1. 딥러닝을 위한 수학 특강 (KAIST 수리과학과 황강욱 교수)  
+### 1. 딥러닝을 위한 수학 특강 (KAIST 수리과학과 황강욱 교수)  
 
   지난 스터디에서  Gaussian Process/Bayesian Statistics/Uncertainty에 대한 내용들이 많았습니다. 
   KAIST 수리과학과 황강욱 교수님을 모시고 머신러닝과에 관련된 수학에 대해서 특강이 있을 예정입니다.  
