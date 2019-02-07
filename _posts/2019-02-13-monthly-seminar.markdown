@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AI 프렌즈 3회 정기 세미나 "
+title:  "AI 프렌즈 3회 정기 세미나 안내"
 date:   2019-02-13 15:00:00
 categories: ai-friends update
 tags: ai-friends update
