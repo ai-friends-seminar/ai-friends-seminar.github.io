@@ -6,9 +6,7 @@ categories: ai-friends update
 tags: ai-friends update
 image: /images/ai_friends.jpg
 ---
-## AI 프렌즈 세미나 안내 
-
-### 학술세미나  
+## AI 프렌즈 학술 세미나   
 
 일시: **매주 수요일 저녁 7~9시**  
 (*세미나가 없는 주는 미리 공지해 드립니다.)  
