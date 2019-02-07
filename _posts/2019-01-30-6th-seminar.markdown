@@ -14,6 +14,10 @@ image: /images/20190130.jpg
   지난 스터디에서  Gaussian Process/Bayesian Statistics/Uncertainty에 대한 내용들이 많았습니다. 
   KAIST 수리과학과 황강욱 교수님을 모시고 머신러닝과에 관련된 수학에 대해서 특강이 있을 예정입니다.  
   머신러닝을 위한 베이시안 통계: 기초이론, 베이시안 통계기반 머신러닝 알고리즘 소개 및 분석, MCMC  
+     [발표자료-01_BayesianStatistics_slide]({{ "/present_file/01_BayesianStatistics_slide.pdf" | absolute_url }})  
+     [발표자료-02_BayesianforML_slide]({{ "/present_file/02_BayesianforML_slide.pdf" | absolute_url }})  
+     [발표자료-03_MCMC_slide]({{ "/present_file/03_MCMC_slide.pdf" | absolute_url }})  
+
 
 ### 2. Model based RL & IEC (ETRI 김귀훈 박사) 
 
