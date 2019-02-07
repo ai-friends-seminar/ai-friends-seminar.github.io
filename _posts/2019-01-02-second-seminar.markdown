@@ -4,7 +4,7 @@ title:  "AI 프렌즈 2회 학술 세미나"
 date:   2019-01-02 19:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/20181226.jpg
+image: /images/20190102.jpg
 ---
 
 발표 주제: 
@@ -19,7 +19,7 @@ image: /images/20181226.jpg
 발표자료:
 
 최신딥러닝 동향 및 기계공학분야의 딥러닝 (KAERI 유용균)
--[get the PDF file]({{ "/present_file/최신딥러닝동향및기계공학분야의딥러닝응용.pdf" | absolute_url }})
+-[get the PDF file]({{ "/present_file/최신 딥러닝 동향 및 기계공학분야의 딥러닝 응용.pdf" | absolute_url }})
 관련 논문: Deep learning for determining a near-optimal topological design without any iteration
 https://link.springer.com/article/10.1007/s00158-018-2101-5
 https://arxiv.org/abs/1801.05463
