@@ -19,12 +19,12 @@ image: /images/20190102.jpg
 **최신딥러닝 동향 및 기계공학분야의 딥러닝 (KAERI 유용균)**
 -[get the PDF file]({{ "/present_file/최신 딥러닝 동향 및 기계공학분야의 딥러닝 응용.pdf" | absolute_url }})
 >관련 논문: Deep learning for determining a near-optimal topological design without any iteration  
- https://link.springer.com/article/10.1007/s00158-018-2101-5  
- https://arxiv.org/abs/1801.05463  
+ [https://link.springer.com/article/10.1007/s00158-018-2101-5][link1]
+ [https://arxiv.org/abs/1801.05463][link2]
 
 **최우성 박사님 발표자료는 제공되지 않습니다.** 아래 논문과 기사를 참조해 주세요.  
->A Bayesian approach for a damage growth model using sporadically measured and heterogeneous on-site data from a steam turbine ( https://www.sciencedirect.com/science/article/pii/S0951832017310888)  
-  딥러닝(Deep Learning) 기반 발전설비 고온부품 열화평가 기법 http://www.keaj.kr/news/articleView.html?idxno=1949  
+>A Bayesian approach for a damage growth model using sporadically measured and heterogeneous on-site data from a steam turbine ( [https://www.sciencedirect.com/science/article/pii/S0951832017310888)][link3]
+  딥러닝(Deep Learning) 기반 발전설비 고온부품 열화평가 기법 [http://www.keaj.kr/news/articleView.html?idxno=1949][link4]
  
 ***
 문의: ai.friends.seminar@gmail.com,
@@ -33,3 +33,7 @@ image: /images/20190102.jpg
 
 [kakao_ai]:     https://open.kakao.com/o/ggewxi2
 [facebook_ai]:  https://www.facebook.com/groups/aifriend/
+[link1]:        https://link.springer.com/article/10.1007/s00158-018-2101-5
+[link2]:        https://arxiv.org/abs/1801.05463
+[link3]:        https://www.sciencedirect.com/science/article/pii/S0951832017310888
+[link4]:        http://www.keaj.kr/news/articleView.html?idxno=1949
