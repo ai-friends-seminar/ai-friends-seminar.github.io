@@ -9,26 +9,26 @@ image: /images/20190102.jpg
 
 
 ## 발표 주제: **기계공학 분야의 딥러닝 적용 사례**
-  ### 사례1: 최적설계, 전산해석, 원자력 분야의 딥러닝 적용 가능성 (KAERI 유용균)
-  ### 사례2: 기계/재료 분야에서의 베이지안 및 딥러닝 기법 활용 사례 (KEPCO 최우성)
+  ### 사례1: 최적설계, 전산해석, 원자력 분야의 딥러닝 적용 가능성 (KAERI 유용균)  
+  ### 사례2: 기계/재료 분야에서의 베이지안 및 딥러닝 기법 활용 사례 (KEPCO 최우성)  
 </br>  
 </br>  
 
-  장소: 대덕테크비즈센터(TBC) 4층 대회의실 (412호)
+  장소: 대덕테크비즈센터(TBC) 4층 대회의실 (412호)  
 </br>  
-발표자료:
+발표자료:  
 </br>  
 
 **최신딥러닝 동향 및 기계공학분야의 딥러닝 (KAERI 유용균)**
 -[get the PDF file]({{ "/present_file/최신 딥러닝 동향 및 기계공학분야의 딥러닝 응용.pdf" | absolute_url }})
->관련 논문: Deep learning for determining a near-optimal topological design without any iteration
+>관련 논문: Deep learning for determining a near-optimal topological design without any iteration  
  https://link.springer.com/article/10.1007/s00158-018-2101-5  
- https://arxiv.org/abs/1801.05463
+ https://arxiv.org/abs/1801.05463  
 </br>  
 
-**최우성 박사님 발표자료는 제공되지 않습니다.** 아래 논문과 기사를 참조해 주세요.
+**최우성 박사님 발표자료는 제공되지 않습니다.** 아래 논문과 기사를 참조해 주세요.  
 >A Bayesian approach for a damage growth model using sporadically measured and heterogeneous on-site data from a steam turbine ( https://www.sciencedirect.com/science/article/pii/S0951832017310888)  
-  딥러닝(Deep Learning) 기반 발전설비 고온부품 열화평가 기법 http://www.keaj.kr/news/articleView.html?idxno=1949
+  딥러닝(Deep Learning) 기반 발전설비 고온부품 열화평가 기법 http://www.keaj.kr/news/articleView.html?idxno=1949  
 </br>  
 </br>  
 </br>  
@@ -36,12 +36,10 @@ image: /images/20190102.jpg
 </br> 
  
 ***
-</br> 
+</br>  
 
 문의: ai.friends.seminar@gmail.com,
 [Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
 [페이스북 홈페이지][facebook_ai]
-</br>  
-
 [kakao_ai]:     https://open.kakao.com/o/ggewxi2
 [facebook_ai]:  https://www.facebook.com/groups/aifriend/
