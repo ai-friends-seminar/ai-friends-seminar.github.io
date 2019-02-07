@@ -17,5 +17,9 @@ image: /images/ai_friends.jpg
 *신청: AI프렌즈 카카오 오픈 채팅방 또는 페이스북 페이지 공지 링크 참고  
 
 ***
-문의: ai.friends.seminar@gmail.com
+문의: ai.friends.seminar@gmail.com,
+[Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
+[페이스북 홈페이지][facebook_ai]
 
+[kakao_ai]:     https://open.kakao.com/o/ggewxi2
+[facebook_ai]:  https://www.facebook.com/groups/aifriend/
