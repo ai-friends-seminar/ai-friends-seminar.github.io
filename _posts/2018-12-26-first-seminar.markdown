@@ -16,16 +16,16 @@ image: /images/20181226.jpg
 발표자료:
 
 A gentle introduction to graph neural network
-  -[get the PDF file]({{ "/present_file/A gentle introduction to graph neural networks.pdf" | absolute_url }})
+  -[발표자료]({{ "/present_file/A gentle introduction to graph neural networks.pdf" | absolute_url }})
 
 Bayesian neural network and uncertainty in deep learning
-  -[get the PDF file]({{ "/present_file/Bayesian neural network and uncertainty in deep learning.pdf" | absolute_url }})
+  -[발표자료]({{ "/present_file/Bayesian neural network and uncertainty in deep learning.pdf" | absolute_url }})
 
 Inductive biases, graph neural networks, attention and relational inference
-  -[get the PDF file]({{ "/present_file/Inductive biases, graph neural networks, attention and relational inference.pdf" | absolute_url }})
+  -[발표자료]({{ "/present_file/Inductive biases, graph neural networks, attention and relational inference.pdf" | absolute_url }})
 
 Survey on adversarial training
-  -[get the PDF file]({{ "/present_file/Survey on adversarial training.pdf" | absolute_url }})
+  -[발표자료]({{ "/present_file/Survey on adversarial training.pdf" | absolute_url }})
 
 
 
