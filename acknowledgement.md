@@ -2,7 +2,7 @@
 layout: page
 title: acknowledgement
 permalink: /acknowledgement/
-image: /images/AIfriends.jpg
+image: /images/pic_190207.jpg
 ---
 
 모임의 첫 화두를 던져봅니다. (몇몇 분들하고는 먼저 이야기하고 있는 내용이기는 하지만..)  
