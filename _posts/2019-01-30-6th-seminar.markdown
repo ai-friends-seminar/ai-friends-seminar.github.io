@@ -25,7 +25,8 @@ image: /images/20190130.jpg
      . 알파고, 알파고제로, 알파제로, 알파스타 
 - model based RL vs model-less RL
 - RL의 산업적용 사례
-     . RIP, IEC 등
+     . RIP, IEC 등  
+   [발표자료1]({{ "/present_file/AI프렌즈_김귀훈_발표자료_190130_v1.0.pdf" | absolute_url }})  
 
 
 장소: 대덕테크비즈센터(TBC) 4층 대회의실 (412호)  
