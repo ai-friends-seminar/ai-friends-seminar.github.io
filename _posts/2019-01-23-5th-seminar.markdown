@@ -18,7 +18,6 @@ image: /images/20190123.jpg
 >**Gaussian Process의 이론과 다양한 적용사례 소개 : 한국항공우주연구원 김홍배 박사**  
   ML분야에서 약방의 감초 같은 존재인 GP이지만 이해가 쉽지 않은 GP의 기본적인 이론 소개와 함께  
   Fluid Dynamics, Gesture Recognition, Optimal Control, Hyper parameter optimization, 신약 신소재 개발을 위한 optimal data sampling strategy등과 같은 적용 사례에 대한 소개  
-  
   [발표자료1]({{ "/present_file/1_Learning Three-dimensional Flow for Interactive Aerodynamic Design.pdf" | absolute_url }})  
   [발표자료2]({{ "/present_file/2_Pose Estimation – Gaussian Process.pdf" | absolute_url }})  
   [발표자료3]({{ "/present_file/3_Bayesian optimization_ LQR Tuning with GP.pdf" | absolute_url }})  
