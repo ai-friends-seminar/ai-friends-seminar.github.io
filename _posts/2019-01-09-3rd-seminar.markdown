@@ -4,7 +4,7 @@ title:  "AI 프렌즈 3회 학술 세미나"
 date:   2019-01-09 19:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/20190102.jpg
+image: /images/20190109.jpg
 ---
 
 
