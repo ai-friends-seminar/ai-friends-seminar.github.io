@@ -18,7 +18,8 @@ image: /images/3th_seminar.jpg
 후원: 연구개발특구진흥재단, KAIST  
 
 
-*저녁 학술세미나 모임은 2월 20일부터 다시 시작합니다.*
+*저녁 학술세미나 모임은 2월 20일부터 다시 시작합니다.*  
+  
 ***
 문의: ai.friends.seminar@gmail.com,
 [Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
