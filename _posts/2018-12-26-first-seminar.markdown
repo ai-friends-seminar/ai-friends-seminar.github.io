@@ -28,12 +28,12 @@ Survey on adversarial training
   -[발표자료]({{ "/present_file/Survey on adversarial training.pdf" | absolute_url }})
 
 
-
-
-후원: 연구개발특구진흥재단, 대덕넷, 원자력연구원  
+ 
 
 
 ***
+
+후원: 연구개발특구진흥재단, 대덕넷, 원자력연구원  
 
 문의: ai.friends.seminar@gmail.com,
 [Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
