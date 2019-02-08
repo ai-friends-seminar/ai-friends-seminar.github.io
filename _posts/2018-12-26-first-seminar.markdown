@@ -30,7 +30,7 @@ Survey on adversarial training
 
 
 
-
+후원: 연구개발특구진흥재단, 대덕넷, 원자력연구원  
 
 
 ***
