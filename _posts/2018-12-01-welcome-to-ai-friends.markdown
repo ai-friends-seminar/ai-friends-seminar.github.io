@@ -28,7 +28,7 @@ image: /images/ai_friends.jpg
 
 대상: **누구나** (단 이번 시즌은 최소 MNIST정도는 돌려보신 분들을 대상으로 합니다.)  
 
-### - **프로그램**  
+### - **프로그램** - 
 **1회(2018.12.26)**:  
 Graph Neural Network & Bayesian Neural Network (류성옥/KAIST)  
 
