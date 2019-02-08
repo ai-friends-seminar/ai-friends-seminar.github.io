@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "AI 프렌즈 3회 심포지움 안내"
+title:  "AI 프렌즈 3회 심포지엄 안내"
 date:   2019-02-13 15:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/3th_seminar.jpg
+image: /images/3th_symposium.jpg
 ---
 
 
