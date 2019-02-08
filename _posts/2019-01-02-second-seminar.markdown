@@ -26,7 +26,10 @@ image: /images/20190102.jpg
 >A Bayesian approach for a damage growth model using sporadically measured and heterogeneous on-site data from a steam turbine ( [https://www.sciencedirect.com/science/article/pii/S0951832017310888)][link3]
   딥러닝(Deep Learning) 기반 발전설비 고온부품 열화평가 기법 [http://www.keaj.kr/news/articleView.html?idxno=1949][link4]
  
-***
+***  
+
+후원: 연구개발특구진흥재단, 대덕넷  
+
 문의: ai.friends.seminar@gmail.com,
 [Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
 [페이스북 홈페이지][facebook_ai]
