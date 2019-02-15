@@ -4,10 +4,13 @@ title:  "AI 프렌즈 3회 심포지엄 안내"
 date:   2019-02-13 15:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/3th_symposium.jpg
+image: /images/3th_sym.jpg
 ---
 
+## 3회 AI 프렌즈 심포지엄
 
+일시: 2019년 2월 13일 (수) 오후 3시~6시
+장소: KAIST KI빌딩 퓨전홀
 
 프로그램:  
 - 산업 인공지능 - 제조 및 물류 산업현장 사례(KAIST 장영재 교수)  
