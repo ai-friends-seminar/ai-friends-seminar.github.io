@@ -4,7 +4,7 @@ title:  "AI 프렌즈 3회 심포지엄 안내"
 date:   2019-02-13 15:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/3th_sym.jpg
+image: /images/3rd_sym.jpg
 ---
 
 ## 3회 AI 프렌즈 심포지엄
