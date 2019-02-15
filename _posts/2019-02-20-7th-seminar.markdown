@@ -8,7 +8,7 @@ image: /images/seminar.jpg
 ---
 
 ## 장소: 대전TP(테크노파크) 대강당
-## 일시: 2월 20일 저녁 7시~9시
+### 일시: 2월 20일 저녁 7시~9시
 
 ## 발표 주제 및 발표자  
 **1. Explainable or Interpretable Artificial Intelligent**  (김범수/KAIST computer science & Mathematical science,  SI-Analytics 인턴)    
