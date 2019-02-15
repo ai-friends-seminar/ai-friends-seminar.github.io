@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to AI Friends!"
-date:   2019-02-13 23:52:07
+date:   2019-02-20 23:52:07
 categories: ai-friends update
 tags: ai-friends update
 image: /images/ai_friends.jpg
@@ -16,8 +16,7 @@ image: /images/ai_friends.jpg
 
 - 2회(2018.12.11) 한국원자력연구원 국제원자력교육훈련센터  
 
-- **3회(2019.02.13) KAIST KI빌딩 퓨전홀**  
-프로그램 및 신청방법은 3회 정기 심포지엄 안내 게시글을 참고해주세요.  
+- 3회(2019.02.13) KAIST KI빌딩 퓨전홀
 
 
 ***  
@@ -51,6 +50,10 @@ AI와 제어 (김성필/(주)제이마플)
 **6회(2019.01.30)**:  
 딥러닝을 위한 수학 특강 (황강욱/KAIST)  
                  Model based RL & IEC (김귀훈/ETRI)  
+                 
+**7회(2019.02.20):  
+Explainable or Interpretable Artificial Intelligent (김범수/KAIST computer science & Mathematical science,  SI-Analytics 인턴)  
+"bayesian model agnostic meta learning 리뷰" (김민규/삼성중공업)**    
                  
                 
                
