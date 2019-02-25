@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to AI Friends!"
-date:   2019-02-20 23:52:07
+date:   2019-02-27 23:52:07
 categories: ai-friends update
 tags: ai-friends update
 image: /images/ai_friends.jpg
@@ -51,9 +51,14 @@ AI와 제어 (김성필/(주)제이마플)
 딥러닝을 위한 수학 특강 (황강욱/KAIST)  
                  Model based RL & IEC (김귀훈/ETRI)  
                  
-**7회(2019.02.20):  
+**7회(2019.02.20)**:  
 Explainable or Interpretable Artificial Intelligent (김범수/KAIST, SI-Analytics 인턴)  
-"bayesian model agnostic meta learning 리뷰" (김민규/삼성중공업)**    
+"bayesian model agnostic meta learning 리뷰" (김민규/삼성중공업)
+
+**8회(2019.02.27):  
+RL 오프소스 소개 (차금강/플랜아이)  
+Inverse RL (이동민)  
+Data efficient Model based RL (김홍배/KARI)**  
                  
                 
                
