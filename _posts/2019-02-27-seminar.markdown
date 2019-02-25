@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "AI 프렌즈 8회 학술 세미나"
+date:   2019-02-27 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/seminar.jpg
+---
+
+## 장소: 대전TP(테크노파크) 대강당
+## 일시: 2월 27일 저녁 7시~9시
+
+## 발표 주제 및 발표자  
+**1. RL 오픈소스 소개 (플랜아이 차금강)**  
+
+**2. Inverse RL (이동민)**  
+
+**3. Data efficient Model based RL (항우연 김홍배)**  
+
+***  
+
+후원: 연구개발특구진흥재단, 대덕넷   
+문의: ai.friends.seminar@gmail.com,
+[Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
+[페이스북 홈페이지][facebook_ai]
+
+[kakao_ai]:     https://open.kakao.com/o/ggewxi2
+[facebook_ai]:  https://www.facebook.com/groups/aifriend/
+
