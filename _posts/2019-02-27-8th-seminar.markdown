@@ -22,10 +22,10 @@ image: /images/seminar.jpg
 
 **3. Data efficient Model based RL (항우연 김홍배) (난이도 ♡♡)**  
 Model-based Reinforcement Learning  
-RL은 크게 Model free & Model based 로 나뉘어지는데 MF의 경우 수많은 Trial을 통하여 특정 임무에 대한 Optimal control policy를 찾아내는 방법으로 실제 로봇이나 산업설비에 적용하는 것은 현실적으로 불가능하다.  
-Model based의 경우에는 기존의 optimal control 이론에 바탕을 둔 접근방법으로 Plant의 model을 black box 또는 좀 더 효율적인 접근방법으로 동일 model에 대한 이전 다른 tasks의 데이터 또는 아주 간단한 model을 이용한 simulation등을 통해 얻어진 prior information을 이용하여 Dynamic programming 등을 이용해서 Optimal control policy를 구하는 방법이다.  
-초기모델이 정확하지 않더라도 plant에 대한 trial data를 이용하여 model을 update해서 비교적 적은 trial을 통해 Optimal control policy를 구할 수 있다.  
-본 발표에서는 model based RL의 최신 연구동향 기술을 소개하고자 한다.  
+RL은 크게 Model free & Model based 로 나뉘어지는데 MF의 경우 수많은 Trial을 통하여 특정 임무에 대한 Optimal control policy를 찾아내는 방법으로 실제 로봇이나 산업설비에 적용하는 것은 현실적으로 불가능합니다.  
+Model based의 경우에는 기존의 optimal control 이론에 바탕을 둔 접근방법으로 Plant의 model을 black box 또는 좀 더 효율적인 접근방법으로 동일 model에 대한 이전 다른 tasks의 데이터 또는 아주 간단한 model을 이용한 simulation등을 통해 얻어진 prior information을 이용하여 Dynamic programming 등을 이용해서 Optimal control policy를 구하는 방법입니다.  
+초기모델이 정확하지 않더라도 plant에 대한 trial data를 이용하여 model을 update해서 비교적 적은 trial을 통해 Optimal control policy를 구할 수 있습니다.  
+본 발표에서는 model based RL의 최신 연구동향 기술을 소개하고자 다.  
 
 신청링크: [https://goo.gl/y1wNW9][link1]
 
