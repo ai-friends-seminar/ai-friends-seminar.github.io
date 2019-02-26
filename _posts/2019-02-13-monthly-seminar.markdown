@@ -14,13 +14,13 @@ image: /images/3rd_sym.jpg
 
 프로그램:  
 - 산업 인공지능 - 제조 및 물류 산업현장 사례(KAIST 장영재 교수)  
- [발표자료1]({{ "/present_file/산업인공지능 (장영재-보안삭제)" | absolute_url }})   
+ [발표자료1]({{ "/present_file/산업인공지능 (장영재-보안삭제).pdf" | absolute_url }})   
  
 - 인공지능 기반 예측진단 기술(기계연구원 선경호 박사)   
- [발표자료2]({{ "/present_file/기계연구원_인공지능연구" | absolute_url }})   
+ [발표자료2]({{ "/present_file/기계연구원_인공지능연구.pdf" | absolute_url }})   
  
 - MicroSoft 출연연 및 기업과 협업 활성화(AI서비스 지원 성공사례)  
- [발표자료3]({{ "/present_file/클라우드기반의 microsoft AI 서비스 소개" | absolute_url }})   
+ [발표자료3]({{ "/present_file/클라우드기반의 microsoft AI 서비스 소개.pdf" | absolute_url }})   
 
 *일부 발표자료는 보안상의 문제로 편집된 부분이 있습니다.*
 
