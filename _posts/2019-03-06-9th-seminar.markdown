@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "AI 프렌즈 9회 학술 세미나"
+date:   2019-03-06 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/seminar.jpg
+---
+
+## 장소: 대덕테크비즈센터(TBC) 4층 대회의실 (412호)
+## 일시: 3월 6일 저녁 7시~9시
+
+## 발표 주제 및 발표자  
+**1. Physics Induced Graph Neural Network (PGNN) for estimating wind farm power generations (박준영/KAIST 산업공학과 박사과정)**   
+
+**2. RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series (AAAI 2019) (이도엽/POSTECH 박사과정)**  
+
+***  
+
+후원: 연구개발특구진흥재단, 대덕넷   
+문의: ai.friends.seminar@gmail.com,
+[Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
+[페이스북 홈페이지][facebook_ai]
+
+[kakao_ai]:     https://open.kakao.com/o/ggewxi2
+[facebook_ai]:  https://www.facebook.com/groups/aifriend/
+[link1]: https://goo.gl/y1wNW9
