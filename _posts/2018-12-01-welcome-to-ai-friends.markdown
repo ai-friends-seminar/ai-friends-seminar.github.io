@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to AI Friends!"
-date:   2019-02-27 23:52:07
+date:   2019-03-06 23:52:07
 categories: ai-friends update
 tags: ai-friends update
 image: /images/ai_friends.jpg
@@ -55,13 +55,16 @@ AI와 제어 (김성필/(주)제이마플)
 Explainable or Interpretable Artificial Intelligent (김범수/KAIST, SI-Analytics 인턴)  
 "bayesian model agnostic meta learning 리뷰" (김민규/삼성중공업)
 
-**8회(2019.02.27):  
+**8회(2019.02.27)**:  
 RL 오프소스 소개 (차금강/플랜아이)  
 Inverse RL (이동민)  
-Data efficient Model based RL (김홍배/KARI)**  
-                 
-                
-               
+Data efficient Model based RL (김홍배/KARI)  
+
+**9회(2019.03.06):  
+주제 1 Physics Induced Graph Neural Network (PGNN) for estimating wind farm power generations (박준영, KAIST 산업공학과 박사과정)  
+주제 2 RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series (AAAI 2019) (이도엽, POSTECH 박사과정)**  
+         
+                       
 
 *간단한 식사와 커피를 제공합니다.  
 *신청: AI프렌즈 카카오 오픈 채팅방 또는 페이스북 페이지 공지 링크 참고   
