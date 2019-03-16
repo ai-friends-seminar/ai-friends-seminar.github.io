@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to AI Friends!"
-date:   2019-03-13 23:52:07
+date:   2019-03-20 23:52:07
 categories: ai-friends update
 tags: ai-friends update
 image: /images/ai_friends.jpg
