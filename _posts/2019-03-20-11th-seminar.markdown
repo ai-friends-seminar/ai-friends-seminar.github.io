@@ -18,7 +18,7 @@ image: /images/seminar.jpg
 - Object Detection의 기본 알고리즘인 FRCNN, SSD등의 architecture 설명  
 - 최신 Object Detection 관련 기술의 연구동향은?  
 
-** 발표 2 : 인공지능 기반 4족 보행 로봇의 자율 학습 기법 소개**  
+**발표 2 : 인공지능 기반 4족 보행 로봇의 자율 학습 기법 소개**  
 발표자 : 김홍배(KARI)  
 상세 내용  
 - 최근 취리히 연방 공대에서 발표한 Model-based Reinforcement Learning을 이용한 4족 보행 로봇의 자율학습 기술에 관한 소개  
