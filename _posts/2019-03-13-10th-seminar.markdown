@@ -4,7 +4,7 @@ title:  "AI 프렌즈 10회 학술 세미나"
 date:   2019-03-13 19:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/20190316_2.png
+image: /images/20190316_2.jpeg
 ---
 
 ## 장소: 대덕테크비즈센터(TBC) 1층 콜라보홀
