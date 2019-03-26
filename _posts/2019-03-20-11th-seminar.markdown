@@ -28,10 +28,10 @@ image: /images/20190320.jpg
 - Robotics 기초부터 4족 보행 로봇의 kinematic, dynamics & control 기술 Study  
 [https://www.slideshare.net/ssuser06e0c5/presentations][link2]  
 
-***  
-신청링크: (추후공지) (저녁식사 수량파악을 위해서 조사하는 것으로 신청하지 않으셔도 당일 참석하실 수 있습니다.)
-신청페이지: [https://goo.gl/GAtsdS][link1]
 
+
+***  
+신청링크: [https://goo.gl/GAtsdS][link1] (저녁식사 수량파악을 위해서 조사하는 것으로 신청하지 않으셔도 당일 참석하실 수 있습니다.)
 
 ***  
 
