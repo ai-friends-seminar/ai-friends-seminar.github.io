@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to AI Friends!"
-date:   2019-03-20 23:52:07
+date:   2019-03-27 23:52:07
 categories: ai-friends update
 tags: ai-friends update
 image: /images/ai_friends.jpg
@@ -64,10 +64,17 @@ Data efficient Model based RL (김홍배/KARI)
 Physics Induced Graph Neural Network (PGNN) for estimating wind farm power generations (박준영, KAIST 산업공학과 박사과정)  
 RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series (AAAI 2019) (이도엽, POSTECH 박사과정)  
          
-**10회(2019.03.13):  
-인공지능의 신경과학적 해석, 신경과학의 인공지능적 해석(ETRI 이정원)**
-이번 학술세미나는 ETRI 최고의 이야기꾼 ETRI 이정원님의 강의가 있을 예정입니다.  
-그리고 강의가 끝난 후 치킨과 함께 네트워킹 시간을 가질 예정입니다!! ^^  
+**10회(2019.03.13)**:  
+인공지능의 신경과학적 해석, 신경과학의 인공지능적 해석(ETRI 이정원)  
+
+**11회(2019.03.20)**:  
+
+
+**12회(2019.03.27):
+ Embedded AI 소개와 사회적약자를 위한 AI 운동 가능성 (ETRI 백동명)  
+ 연구개발특구진흥재단 소개 (임문택)**  
+
+
 
 
 *간단한 식사와 커피를 제공합니다.  
