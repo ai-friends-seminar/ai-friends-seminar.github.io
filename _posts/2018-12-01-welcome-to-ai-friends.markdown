@@ -68,8 +68,8 @@ RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series 
 인공지능의 신경과학적 해석, 신경과학의 인공지능적 해석(ETRI 이정원)  
 
 **11회(2019.03.20)**:  
-딥러닝을 이용한 Object Detection의 기본 알고리즘과 최신 연구동향 소개 (SI Analytics 구자명)
-인공지능 기반 4족 보행 로봇의 자율 학습 기법 소개 (KARI )
+딥러닝을 이용한 Object Detection의 기본 알고리즘과 최신 연구동향 소개 (SI Analytics 구자명)  
+인공지능 기반 4족 보행 로봇의 자율 학습 기법 소개 (KARI 김홍배)
 
 **12회(2019.03.27):
  Embedded AI 소개와 사회적약자를 위한 AI 운동 가능성 (ETRI 백동명)  
