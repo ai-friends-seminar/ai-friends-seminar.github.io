@@ -18,6 +18,9 @@ image: /images/seminar.jpg
 - Object Detection의 기본 알고리즘인 FRCNN, SSD등의 architecture 설명  
 - 최신 Object Detection 관련 기술의 연구동향은?  
 
+[발표자료1]({{ "/present_file/[20190320] Intor_Object_Detection_by_JMKoo.pdf" | absolute_url }})  
+
+
 **발표 2 : 인공지능 기반 4족 보행 로봇의 자율 학습 기법 소개**  
 발표자 : 김홍배(KARI)  
 상세 내용  
